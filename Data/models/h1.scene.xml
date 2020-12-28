@@ -1,0 +1,18 @@
+<Model name="h1" geometry="models/h1/h1.geo">
+
+	<Mesh name="SketchUp" material="models/h1/material_0.material.xml" batchStart="0" batchCount="36" vertRStart="0" vertREnd="15">
+		<Mesh name="SketchUp" material="models/h1/material_0.material.xml" batchStart="36" batchCount="6" vertRStart="16" vertREnd="19" />
+		<Mesh name="SketchUp" material="models/h1/material_1.material.xml" batchStart="42" batchCount="6" vertRStart="20" vertREnd="23">
+			<Mesh name="#SketchUp" material="models/h1/material_2.material.xml" batchStart="48" batchCount="6" vertRStart="24" vertREnd="27" />
+		</Mesh>
+		<Mesh name="SketchUp" material="models/h1/material_1.material.xml" batchStart="54" batchCount="6" vertRStart="28" vertREnd="31">
+			<Mesh name="#SketchUp" material="models/h1/material_2.material.xml" batchStart="60" batchCount="6" vertRStart="32" vertREnd="35" />
+		</Mesh>
+		<Mesh name="SketchUp" material="models/h1/material_0.material.xml" batchStart="66" batchCount="6" vertRStart="36" vertREnd="39">
+			<Mesh name="#SketchUp" material="models/h1/material_2.material.xml" batchStart="72" batchCount="6" vertRStart="40" vertREnd="43" />
+		</Mesh>
+		<Mesh name="SketchUp" material="models/h1/material_3.material.xml" batchStart="78" batchCount="36" vertRStart="44" vertREnd="55" />
+		<Mesh name="SketchUp" material="models/h1/material_0.material.xml" batchStart="114" batchCount="18" vertRStart="56" vertREnd="67" />
+		<Mesh name="SketchUp" material="models/h1/material_0.material.xml" batchStart="132" batchCount="24" vertRStart="68" vertREnd="83" />
+	</Mesh>
+</Model>

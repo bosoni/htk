@@ -1,0 +1,4 @@
+<Model name="floor" geometry="models/floor.geo">
+
+	<Mesh name="Box01" material="models/_1_-_Default.material.xml" sx="1" sy="0.105806" sz="1" batchStart="0" batchCount="36" vertRStart="0" vertREnd="23" />
+</Model>

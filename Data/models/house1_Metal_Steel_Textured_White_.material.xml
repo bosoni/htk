@@ -1,0 +1,5 @@
+<Material>
+	<Shader source="shaders/model.shader" />
+
+	<Sampler name="albedoMap" map="models/Metal_Steel_Textured_White_.jpg" />
+</Material>

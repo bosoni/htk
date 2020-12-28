@@ -1,0 +1,31 @@
+<Model name="t2_walk" geometry="model/t2_walk.geo">
+	<!-- Morph targets: "yell" "happy" "eyesclosed" "eyesangry" -->
+
+	<Joint name="Bone09" tx="-3.35363" ty="-59.9355" tz="-2.61986e-006" rx="2.66299" ry="90.0001" rz="90" jointIndex="1">
+		<Joint name="Bone10" tx="36.2045" ty="7.78746e-007" tz="1.19209e-007" rx="2.48476e-005" ry="1.92848" rz="-5.08889e-014" jointIndex="2">
+			<Joint name="Bone11" tx="65.6077" ty="2.37001e-006" tz="3.57628e-007" rx="-0" ry="2.16662" rz="0" jointIndex="3">
+				<Joint name="Bone12" tx="67.3053" ty="2.42961e-006" tz="2.98023e-007" rx="1.59028e-015" ry="-1.00179e-005" rz="0" jointIndex="4" />
+			</Joint>
+		</Joint>
+		<Joint name="Bone13" tx="36.2045" ty="2.10311e-006" tz="-2.38419e-007" rx="3.46901e-006" ry="79.1693" rz="2.73208e-005" jointIndex="5">
+			<Joint name="Bone14" tx="65.9817" ty="-5.13153e-006" tz="0" rx="-0.139834" ry="42.7451" rz="1.50183" jointIndex="6">
+				<Joint name="Bone15" tx="60.6421" ty="2.38419e-007" tz="1.14441e-005" rx="13.0887" ry="43.9269" rz="35.4962" jointIndex="7">
+					<Joint name="Bone16" tx="69.0888" ty="3.8147e-006" tz="-1.52588e-005" rx="-0.0611787" ry="18.185" rz="-13.676" jointIndex="8">
+						<Joint name="Bone17" tx="59.0079" ty="1.14441e-005" tz="-1.52588e-005" jointIndex="9" />
+					</Joint>
+				</Joint>
+			</Joint>
+		</Joint>
+		<Joint name="Bone18" tx="36.2045" ty="2.10311e-006" tz="-3.57628e-007" rx="6.75338e-006" ry="-77.1181" rz="-2.58063e-005" jointIndex="10">
+			<Joint name="Bone19" tx="66.7692" ty="1.20963e-010" tz="-1.52588e-005" rx="1.60083e-007" ry="-43.6201" rz="2.21939" jointIndex="11">
+				<Joint name="Bone20" tx="57.7674" ty="1.66893e-006" tz="9.53674e-006" rx="6.37679" ry="-33.8076" rz="-16.6485" jointIndex="12">
+					<Joint name="Bone21" tx="69.233" ty="1.90735e-006" tz="0" rx="1.69263" ry="-19.1762" rz="-23.1117" jointIndex="13">
+						<Joint name="Bone22" tx="60.6444" ty="0" tz="3.05176e-005" jointIndex="14" />
+					</Joint>
+				</Joint>
+			</Joint>
+		</Joint>
+	</Joint>
+
+	<Mesh name="Sphere01" material="model/t2_walk_Material__25.material.xml" batchStart="0" batchCount="390" vertRStart="0" vertREnd="107" />
+</Model>

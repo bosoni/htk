@@ -1,0 +1,13 @@
+<Model name="map4" geometry="models/map4.geo">
+
+	<Mesh name="wall" material="models/Material__13.material.xml" batchStart="0" batchCount="744" vertRStart="0" vertREnd="399" />
+	<Mesh name="floor" material="models/Material__9.material.xml" batchStart="744" batchCount="54" vertRStart="400" vertREnd="421" />
+	<Mesh name="Object01" material="models/Material__4.material.xml" batchStart="798" batchCount="12" vertRStart="422" vertREnd="427" />
+	<Mesh name="Object02" material="models/Material__6.material.xml" batchStart="810" batchCount="18" vertRStart="428" vertREnd="435" />
+	<Mesh name="Object03" material="models/Material__5.material.xml" batchStart="828" batchCount="45" vertRStart="436" vertREnd="452" />
+	<Mesh name="Object04" material="models/Material__8.material.xml" batchStart="873" batchCount="18" vertRStart="453" vertREnd="460" />
+	<Mesh name="Object05" material="models/Material__10.material.xml" batchStart="891" batchCount="30" vertRStart="461" vertREnd="472" />
+	<Mesh name="Object06" material="models/Material__12.material.xml" batchStart="921" batchCount="6" vertRStart="473" vertREnd="476" />
+	<Mesh name="Object07" material="models/Material__11.material.xml" batchStart="927" batchCount="30" vertRStart="477" vertREnd="488" />
+	<Mesh name="Object08" material="models/Material__7.material.xml" batchStart="957" batchCount="30" vertRStart="489" vertREnd="499" />
+</Model>

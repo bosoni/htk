@@ -1,0 +1,4 @@
+<Model name="treasure" geometry="models/1/treasure.geo">
+
+	<Mesh name="Box02" material="models/1/ColorEffectR61G135B6-material.material.xml" tx="0.124205" ty="0" tz="0.0587367" batchStart="0" batchCount="60" vertRStart="0" vertREnd="37" />
+</Model>

@@ -1,0 +1,41 @@
+<Model name="house_test" geometry="model/house_test.geo">
+
+	<Mesh name="SketchUp" material="model/house_test_material.material.xml" batchStart="0" batchCount="18" vertRStart="0" vertREnd="7">
+		<Mesh name="#SketchUp" material="model/house_test_Brick_Pavers_Modular_.material.xml" batchStart="18" batchCount="18" vertRStart="8" vertREnd="15" />
+>
+		<Mesh name="SketchUp" material="model/house_test_Brick_Tumbled_.material.xml" batchStart="36" batchCount="12" vertRStart="16" vertREnd="23" />
+		<Mesh name="SketchUp" material="model/house_test_Brick_Antique_.material.xml" batchStart="48" batchCount="24" vertRStart="24" vertREnd="37">
+			<Mesh name="#SketchUp" material="model/house_test_Brick_Pavers_Modular_.material.xml" batchStart="72" batchCount="24" vertRStart="38" vertREnd="51" />
+		</Mesh>
+		<Mesh name="SketchUp" material="model/house_test_Brick_Antique_.material.xml" batchStart="96" batchCount="36" vertRStart="52" vertREnd="63" />
+		<Mesh name="SketchUp" material="model/house_test_material.material.xml" batchStart="132" batchCount="18" vertRStart="64" vertREnd="75" />
+		<Mesh name="SketchUp" material="model/house_test_material.material.xml" batchStart="150" batchCount="24" vertRStart="76" vertREnd="91" />
+		<Mesh name="Susan" material="model/house_test__96_96_96.material.xml" tx="17.7499" ty="0" tz="-13.2661" rx="-0" ry="-0.650282" rz="0" batchStart="174" batchCount="762" vertRStart="92" vertREnd="355">
+			<Mesh name="Susan" material="model/house_test___Beige_1.material.xml" batchStart="936" batchCount="450" vertRStart="356" vertREnd="509" />
+			<Mesh name="Susan" material="model/house_test_Color_B24_.material.xml" batchStart="1386" batchCount="354" vertRStart="510" vertREnd="631" />
+			<Mesh name="Susan" material="model/house_test___LightGray_.material.xml" batchStart="1740" batchCount="36" vertRStart="632" vertREnd="647" />
+			<Mesh name="Susan" material="model/house_test___Beige_1.material.xml" batchStart="1776" batchCount="366" vertRStart="648" vertREnd="777" />
+			<Mesh name="Susan" material="model/house_test___Beige_1.material.xml" batchStart="2142" batchCount="84" vertRStart="778" vertREnd="809" />
+			<Mesh name="Susan" material="model/house_test__0135_DarkGray_.material.xml" batchStart="2226" batchCount="51" vertRStart="810" vertREnd="828">
+				<Mesh name="#Susan" material="model/house_test__96_96_96.material.xml" batchStart="2277" batchCount="51" vertRStart="829" vertREnd="847" />
+			</Mesh>
+			<Mesh name="Susan" material="model/house_test__96_96_96.material.xml" batchStart="2328" batchCount="102" vertRStart="848" vertREnd="885" />
+			<Mesh name="Susan" material="model/house_test_jean_blue.material.xml" batchStart="2430" batchCount="834" vertRStart="886" vertREnd="1167" />
+			<Mesh name="Susan" material="model/house_test___Charcoal_.material.xml" batchStart="3264" batchCount="162" vertRStart="1168" vertREnd="1225" />
+			<Mesh name="Susan" material="model/house_test__0135_DarkGray_.material.xml" batchStart="3426" batchCount="12" vertRStart="1226" vertREnd="1231">
+				<Mesh name="#Susan" material="model/house_test__96_96_96.material.xml" batchStart="3438" batchCount="12" vertRStart="1232" vertREnd="1237" />
+			</Mesh>
+			<Mesh name="Susan" material="model/house_test___Charcoal_.material.xml" batchStart="3450" batchCount="102" vertRStart="1238" vertREnd="1275" />
+			<Mesh name="Susan" material="model/house_test__0135_DarkGray_.material.xml" batchStart="3552" batchCount="15" vertRStart="1276" vertREnd="1282">
+				<Mesh name="#Susan" material="model/house_test__96_96_96.material.xml" batchStart="3567" batchCount="15" vertRStart="1283" vertREnd="1289" />
+			</Mesh>
+			<Mesh name="Susan" material="model/house_test___Charcoal_.material.xml" batchStart="3582" batchCount="30" vertRStart="1290" vertREnd="1303" />
+			<Mesh name="Susan" material="model/house_test__96_96_96.material.xml" batchStart="3612" batchCount="126" vertRStart="1304" vertREnd="1349" />
+			<Mesh name="Susan" material="model/house_test__0135_DarkGray_.material.xml" batchStart="3738" batchCount="6" vertRStart="1350" vertREnd="1353">
+				<Mesh name="#Susan" material="model/house_test__96_96_96.material.xml" batchStart="3744" batchCount="6" vertRStart="1354" vertREnd="1357" />
+			</Mesh>
+			<Mesh name="Susan" material="model/house_test___Beige_1.material.xml" batchStart="3750" batchCount="186" vertRStart="1358" vertREnd="1423" />
+			<Mesh name="Susan" material="model/house_test___LightGray_.material.xml" batchStart="3936" batchCount="12" vertRStart="1424" vertREnd="1431" />
+		</Mesh>
+	</Mesh>
+</Model>

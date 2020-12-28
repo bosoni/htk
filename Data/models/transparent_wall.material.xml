@@ -1,0 +1,4 @@
+<Material class="Translucent">
+	<Shader source="shaders/model.shader" />
+  <Sampler name="albedoMap" map="models/1/wall0.jpg" />
+</Material>

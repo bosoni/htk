@@ -1,0 +1,14 @@
+<Model name="house1" geometry="model/house1.geo">
+
+	<Mesh name="SketchUp" material="model/house1_material.material.xml" batchStart="0" batchCount="18" vertRStart="0" vertREnd="7">
+		<Mesh name="#SketchUp" material="model/house1_Cladding_Siding_White_.material.xml" batchStart="18" batchCount="18" vertRStart="8" vertREnd="15" />
+>
+		<Mesh name="SketchUp" material="model/house1_Brick_Pavers_Modular_.material.xml" batchStart="36" batchCount="6" vertRStart="16" vertREnd="19" />
+		<Mesh name="SketchUp" material="model/house1_Brick_Rough_Tan_.material.xml" batchStart="42" batchCount="18" vertRStart="20" vertREnd="31">
+			<Mesh name="#SketchUp" material="model/house1_Brick_Rough_Dark_.material.xml" batchStart="60" batchCount="18" vertRStart="32" vertREnd="43" />
+		</Mesh>
+		<Mesh name="SketchUp" material="model/house1_Brick_Rough_Tan_.material.xml" batchStart="78" batchCount="36" vertRStart="44" vertREnd="55" />
+		<Mesh name="SketchUp" material="model/house1_material.material.xml" batchStart="114" batchCount="18" vertRStart="56" vertREnd="67" />
+		<Mesh name="SketchUp" material="model/house1_material.material.xml" batchStart="132" batchCount="24" vertRStart="68" vertREnd="83" />
+	</Mesh>
+</Model>

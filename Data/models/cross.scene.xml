@@ -1,0 +1,5 @@
+<Model name="cross" geometry="models/cross.geo">
+
+	<Mesh name="Box01" material="models/ColorEffectR148G177B27-material.material.xml" tx="0.0014519" ty="0" tz="0.0123633" rx="0.5" ry="0" rz="0" batchStart="0" batchCount="36" vertRStart="0" vertREnd="23" />
+	<Mesh name="Box03" material="models/ColorEffectR113G135B6-material.material.xml" tx="-0.0973089" ty="1.22198" tz="0.0112985" rx="83.6685" ry="51.9219" rz="140.464" batchStart="36" batchCount="36" vertRStart="24" vertREnd="47" />
+</Model>

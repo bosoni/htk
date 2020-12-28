@@ -1,0 +1,9 @@
+<Model name="boxes" geometry="models/boxes.geo">
+
+	<Mesh name="" material="models/boxes_Material.material.xml" tx="-0.0353315" ty="0.416333" tz="0.00590274" sx="0.213701" sy="0.420018" sz="0.213701" batchStart="0" batchCount="36" vertRStart="0" vertREnd="23" />
+	<Mesh name="_2" material="models/boxes_Material.002.material.xml" tx="-0.645011" ty="0.157038" tz="0.678813" sx="0.0813454" sy="0.15988" sz="0.0813454" batchStart="36" batchCount="36" vertRStart="24" vertREnd="47" />
+	<Mesh name="_3" material="models/boxes_Material.004.material.xml" tx="0.718519" ty="0.157038" tz="0.637494" sx="0.0813454" sy="0.15988" sz="0.0813454" batchStart="72" batchCount="36" vertRStart="48" vertREnd="71" />
+	<Mesh name="_4" material="models/boxes_Material.005.material.xml" tx="0.718519" ty="0.157038" tz="-0.613883" sx="0.0813454" sy="0.15988" sz="0.0813454" batchStart="108" batchCount="36" vertRStart="72" vertREnd="95" />
+	<Mesh name="_5" material="models/boxes_Material.003.material.xml" tx="-0.774871" ty="0.157038" tz="-0.625689" sx="0.0813454" sy="0.15988" sz="0.0813454" batchStart="144" batchCount="36" vertRStart="96" vertREnd="119" />
+	<Mesh name="_6" material="models/boxes_Material.001.material.xml" batchStart="180" batchCount="6" vertRStart="120" vertREnd="123" />
+</Model>

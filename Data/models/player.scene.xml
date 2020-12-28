@@ -1,0 +1,60 @@
+<Model name="player" geometry="models/character/player.geo">
+	<Joint name="Bip01" tx="0" ty="0.836503" tz="0" rx="-0.0359245" ry="-89.9999" rz="0" jointIndex="1">
+		<Joint name="Bip01_Pelvis" tx="0.002729" ty="0" tz="-0.0039" rx="-0" ry="-89.9999" rz="88.6123" jointIndex="2">
+			<Joint name="Bip01_Spine" tx="0.092993" ty="0.002252" tz="8.3e-005" rx="0.00939651" ry="-0.519966" rz="0.346871" jointIndex="3">
+				<Joint name="Bip01_Spine1" tx="0.105154" ty="0" tz="0.000104" rx="-5.72958e-005" ry="-0.141406" rz="-0.624422" jointIndex="4">
+					<Joint name="Bip01_Spine2" tx="0.131606" ty="0" tz="0.000116" rx="0.000114592" ry="-0.141406" rz="1.04072" jointIndex="5">
+						<Joint name="Bip01_Spine3" tx="0.145849" ty="0" tz="0.000103" rx="5.72958e-005" ry="-0.141406" rz="0.624422" jointIndex="6">
+							<Joint name="Bip01_Neck" tx="0.130589" ty="0" tz="7.2e-005" jointIndex="7">
+								<Joint name="Bip01_Head" tx="0.0906" ty="0" tz="0" rx="0.0597595" ry="0.944105" rz="0.000114592" jointIndex="8" />
+								<Joint name="Bip01_L_Clavicle" tx="0" ty="0.035158" tz="-7.2e-005" rx="-0.000114592" ry="179.954" rz="90" jointIndex="9">
+									<Joint name="Bip01_L_UpperArm" tx="0.105155" ty="0" tz="0" rx="15.4998" ry="-0.530494" rz="-86.4638" jointIndex="10">
+										<Joint name="Bip01_L_Forearm" tx="0.371793" ty="0" tz="0" rx="-0" ry="-7.51721" rz="0" jointIndex="11">
+											<Joint name="Bip01_L_Hand" tx="0.270838" ty="0" tz="0" rx="-83.0865" ry="-89.6211" rz="89.624" jointIndex="12">
+												<Joint name="Bip01_L_Finger0" tx="0.10111" ty="0" tz="0" rx="-0.0456074" ry="0" rz="0" jointIndex="13" />
+											</Joint>
+										</Joint>
+									</Joint>
+								</Joint>
+								<Joint name="Bip01_R_Clavicle" tx="0" ty="-0.035158" tz="-7.2e-005" rx="-0.000114592" ry="179.954" rz="-90" jointIndex="14">
+									<Joint name="Bip01_R_UpperArm" tx="0.105155" ty="0" tz="0" rx="-1.58271" ry="0.0484334" rz="84.2692" jointIndex="15">
+										<Joint name="Bip01_R_Forearm" tx="0.371793" ty="0" tz="0" rx="-0" ry="-21.1307" rz="0" jointIndex="16">
+											<Joint name="Bip01_R_Hand" tx="0.270838" ty="0" tz="0" rx="83.0865" ry="-89.6211" rz="-89.624" jointIndex="17">
+												<Joint name="Bip01_R_Finger0" tx="0.10111" ty="0" tz="0" rx="0.0456074" ry="0" rz="0" jointIndex="18" />
+											</Joint>
+										</Joint>
+									</Joint>
+								</Joint>
+							</Joint>
+						</Joint>
+					</Joint>
+				</Joint>
+				<Joint name="Bip01_L_Thigh" tx="-0.092512" ty="0.079197" tz="0.000747" rx="3.45382" ry="-22.8054" rz="-179.047" jointIndex="19">
+					<Joint name="Bip01_L_Calf" tx="0.404441" ty="0" tz="0" rx="-0" ry="-32.005" rz="0" jointIndex="20">
+						<Joint name="Bip01_L_Foot" tx="0.378788" ty="0" tz="0" rx="2.79927" ry="8.59583" rz="-1.24014" jointIndex="21">
+							<Joint name="Bip01_L_Toe0" tx="0.093021" ty="0" tz="-0.119715" rx="-0" ry="87.4559" rz="0" jointIndex="22">
+								<Joint name="Bip01_L_Toe01" tx="0.012133" ty="0" tz="0" jointIndex="23">
+									<Joint name="Bip01_L_Toe02" tx="0.012133" ty="0" tz="0" jointIndex="24" />
+								</Joint>
+							</Joint>
+						</Joint>
+					</Joint>
+				</Joint>
+				<Joint name="Bip01_R_Thigh" tx="-0.093492" ty="-0.082576" tz="0.000773" rx="-0.00148969" ry="-8.10803" rz="179.735" jointIndex="25">
+					<Joint name="Bip01_R_Calf" tx="0.404441" ty="0" tz="0" rx="-0" ry="-53.7036" rz="0" jointIndex="26">
+						<Joint name="Bip01_R_Foot" tx="0.378788" ty="0" tz="0" rx="0.839987" ry="5.58288" rz="7.42619" jointIndex="27">
+							<Joint name="Bip01_R_Toe0" tx="0.093021" ty="0" tz="-0.119715" rx="-0" ry="87.4559" rz="0" jointIndex="28">
+								<Joint name="Bip01_R_Toe01" tx="0.012133" ty="0" tz="0" rx="-0" ry="8.77757" rz="0" jointIndex="29">
+									<Joint name="Bip01_R_Toe02" tx="0.012133" ty="0" tz="0" rx="-0" ry="8.77757" rz="0" jointIndex="30" />
+								</Joint>
+							</Joint>
+						</Joint>
+					</Joint>
+				</Joint>
+			</Joint>
+		</Joint>
+		<Joint name="Bip01_Footsteps" tx="0" ty="-0.836503" tz="-0.000524" rx="-0" ry="89.9999" rz="0.0359244" jointIndex="31" />
+	</Joint>
+
+	<Mesh name="humanBody" material="models/character/Default_Material.material.xml" batchStart="0" batchCount="5814" vertRStart="0" vertREnd="5813" />
+</Model>

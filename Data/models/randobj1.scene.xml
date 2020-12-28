@@ -1,0 +1,4 @@
+<Model name="randobj1" geometry="models/randobj1.geo">
+
+	<Mesh name="" material="models/randobj1_Material.material.xml" batchStart="0" batchCount="84" vertRStart="0" vertREnd="55" />
+</Model>

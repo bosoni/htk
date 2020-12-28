@@ -1,0 +1,11 @@
+<Model name="box" geometry="models/box.geo">
+	<Joint name="Bone01" tx="0.045317" ty="-0.020238" tz="-0.009496" rx="-0" ry="0" rz="90" sx="0.044036" sy="0.044036" sz="0.044036" jointIndex="1">
+		<Joint name="Bone02" tx="12.3822" ty="0" tz="1e-006" rx="-0" ry="0.806923" rz="0" jointIndex="2">
+			<Joint name="Bone03" tx="15.1591" ty="0" tz="0" rx="-0" ry="1.68256" rz="0" jointIndex="3">
+				<Joint name="Bone04" tx="14.7445" ty="0" tz="1e-006" jointIndex="4" />
+			</Joint>
+		</Joint>
+	</Joint>
+
+	<Mesh name="Box01" material="models/ColorMaterial_1C59B100.material.xml" batchStart="0" batchCount="1500" vertRStart="0" vertREnd="335" />
+</Model>

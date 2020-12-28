@@ -1,0 +1,4 @@
+<Model name="ruukku1" geometry="models/ruukku1.geo">
+
+	<Mesh name="" material="models/ruukku1_Material.001.material.xml" batchStart="0" batchCount="180" vertRStart="0" vertREnd="119" />
+</Model>

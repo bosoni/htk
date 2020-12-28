@@ -1,0 +1,5 @@
+<Material>
+	<Shader source="shaders/model.shader" />
+
+	<Sampler name="albedoMap" map="model/Brick_Rough_Dark_.jpg" />
+</Material>

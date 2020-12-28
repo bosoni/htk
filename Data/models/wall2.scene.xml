@@ -1,0 +1,4 @@
+<Model name="wall2" geometry="models/1/wall2.geo">
+
+	<Mesh name="Rectangle01" material="models/1/_1_-_Default.material.xml" batchStart="0" batchCount="30" vertRStart="0" vertREnd="19" />
+</Model>

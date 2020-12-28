@@ -1,0 +1,8 @@
+<settings>
+  <resolution>1024x768x32</resolution>
+  <fsaa>4</fsaa>
+  <maxAnisotropy>4</maxAnisotropy>
+  <shadowMapSize>2048</shadowMapSize>
+  <fullscreen>false</fullscreen>
+  <vsync>true</vsync>
+</settings>

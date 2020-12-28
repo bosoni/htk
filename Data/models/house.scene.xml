@@ -1,0 +1,17 @@
+<Model name="house" geometry="models/eka/house.geo">
+	<Mesh name="SketchUp" material="models/eka/material_0.material.xml" batchStart="0" batchCount="18" vertRStart="0" vertREnd="7">
+		<Mesh name="#SketchUp" material="models/eka/material_1.material.xml" batchStart="18" batchCount="18" vertRStart="8" vertREnd="15" />
+		<Mesh name="SketchUp" material="models/eka/material_2.material.xml" batchStart="36" batchCount="6" vertRStart="16" vertREnd="19">
+			<Mesh name="#SketchUp" material="models/eka/material_3.material.xml" batchStart="42" batchCount="6" vertRStart="20" vertREnd="23" />
+		</Mesh>
+		<Mesh name="SketchUp" material="models/eka/material_4.material.xml" batchStart="48" batchCount="15" vertRStart="24" vertREnd="32">
+			<Mesh name="#SketchUp" material="models/eka/material_3.material.xml" batchStart="63" batchCount="15" vertRStart="33" vertREnd="41" />
+		</Mesh>
+		<Mesh name="SketchUp" material="models/eka/material_5.material.xml" batchStart="78" batchCount="12" vertRStart="42" vertREnd="49">
+			<Mesh name="#SketchUp" material="models/eka/material_6.material.xml" batchStart="90" batchCount="12" vertRStart="50" vertREnd="57" />
+		</Mesh>
+		<Mesh name="SketchUp" material="models/eka/material_2.material.xml" batchStart="102" batchCount="39" vertRStart="58" vertREnd="70" />
+		<Mesh name="SketchUp" material="models/eka/material_4.material.xml" batchStart="141" batchCount="18" vertRStart="71" vertREnd="82" />
+		<Mesh name="SketchUp" material="models/eka/material_4.material.xml" batchStart="159" batchCount="24" vertRStart="83" vertREnd="98" />
+	</Mesh>
+</Model>

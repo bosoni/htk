@@ -1,0 +1,11 @@
+﻿<map>
+  <maptexture>maps/map.png</maptexture>
+  <model>models/1/floor3.scene.xml</model>
+  <model>models/1/wall2.scene.xml</model>
+  <model>models/1/treasure.scene.xml</model>
+  <model>models/1/floor3.scene.xml<texture>textures/floor/1.jpg</texture></model>
+  <model>models/1/floor3.scene.xml<texture>textures/floor/2.jpg</texture></model>
+  <model>models/1/floor3.scene.xml<texture>textures/floor/3.jpg</texture></model>
+  <model>models/1/floor3.scene.xml<texture>textures/floor/4.jpg</texture></model>
+  <model>models/1/floor3.scene.xml<texture>textures/floor/5.jpg</texture></model>
+</map>

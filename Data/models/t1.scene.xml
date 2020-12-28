@@ -1,0 +1,6 @@
+<Model name="t1" geometry="model/t1.geo">
+	<!-- Morph targets: "tar00" "tar01" "tar02" "tar03" "tar04" -->
+
+
+	<Mesh name="Sphere01" material="model/t1_Material__25.material.xml" tx="-1.23967" ty="0" tz="-0.413223" batchStart="0" batchCount="246" vertRStart="0" vertREnd="125" />
+</Model>

@@ -1,0 +1,4 @@
+<Model name="cursor3d" geometry="models/1/cursor3d.geo">
+
+	<Mesh name="Tube01" material="models/1/cursor3d.material.xml" batchStart="0" batchCount="1296" vertRStart="0" vertREnd="303" />
+</Model>
